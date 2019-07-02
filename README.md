@@ -1,7 +1,7 @@
 # eyulingo-ci
 “Let's get it continuous integrated!” said `eyulingo`.
 
-## Project Status
+## Project Dashboard
 
 | Branch | Last Commit | Status |
 | ------------- | ------------- | ------------- |
