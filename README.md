@@ -26,7 +26,7 @@
 </p>
 
 
-### Building Dashboard
+### Repositories Dashboard
 
   
 | Branch | Last Commit | Status |
@@ -37,6 +37,7 @@
 | Android Client (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-android/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-android.svg?branch=develop) |
 | iOS Client (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-ios/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-ios.svg?branch=master)  |
 | iOS Client (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-ios/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-ios.svg?branch=develop)  |
+| Dockerize | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-dockerize/master.svg?style=flat-square) | N/A  |
 | Web (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-web/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-web.svg?branch=master)  |
 | Web (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-web/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-web.svg?branch=develop) |
-
+| Database | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-db/master.svg?style=flat-square) | N/A  |
