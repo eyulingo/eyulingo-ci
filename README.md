@@ -14,6 +14,7 @@
 
 <h2 align="center">
   Repository Links
+ </h2>
 <p align="center">
   <a href="https://github.com/eyulingo/eyulingo-server">Server</a>
   <a href="https://github.com/eyulingo/eyulingo-web">Web</a>
@@ -23,7 +24,7 @@
   <a href="https://github.com/eyulingo/eyulingo-dockerize">Dockerize</a>
   <a href="https://github.com/eyulingo/paper-work">Paperwork</a>
 </p>
-  </h2>
+
 
 ### Building Dashboard
 
