@@ -22,11 +22,17 @@
  </h2>
 <p align="center">
   <a href="https://github.com/eyulingo/eyulingo-server">Server</a>
+  <a>·</a>
   <a href="https://github.com/eyulingo/eyulingo-web">Web</a>
+  <a>·</a>
   <a href="https://github.com/eyulingo/eyulingo-ios">iOS</a>
+  <a>·</a>
   <a href="https://github.com/eyulingo/eyulingo-android">Android</a>
+  <a>·</a>
   <a href="https://github.com/eyulingo/eyulingo-db">Database</a>
+  <a>·</a>
   <a href="https://github.com/eyulingo/eyulingo-dockerize">Dockerize</a>
+  <a>·</a>
   <a href="https://github.com/eyulingo/paper-work">Paperwork</a>
 </p>
 
