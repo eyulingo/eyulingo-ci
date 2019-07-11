@@ -41,14 +41,14 @@
 
   
 | Branch | Last Commit | Status |
- :-: | :-: | :-:
-| Server (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-server.svg?branch=master)  |
-| Server (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-server.svg?branch=develop) |
+ :-: | -: | -
+| Server (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/master.svg?style=flat-square) | ![CircleCI](https://img.shields.io/circleci/build/github/eyulingo/eyulingo-server.svg?logo=circleci) |
+| Server (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/develop.svg?style=flat-square) | ![CircleCI](https://img.shields.io/circleci/build/github/eyulingo/eyulingo-server/develop.svg?logo=circleci) |
 | Android Client (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-android/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-android.svg?branch=master)  |
 | Android Client (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-android/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-android.svg?branch=develop) |
 | iOS Client (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-ios/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-ios.svg?branch=master)  |
 | iOS Client (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-ios/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-ios.svg?branch=develop)  |
-| Dockerize | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-dockerize/master.svg?style=flat-square) | N/A  |
+| Dockerize | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-dockerize/master.svg?style=flat-square) | <img src="https://img.shields.io/docker/cloud/build/yuxiqian/eyulingo-server.svg?style=flat-square"></img>  |
 | Web (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-web/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-web.svg?branch=master)  |
 | Web (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-web/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-web.svg?branch=develop) |
 | Database | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-db/master.svg?style=flat-square) | N/A  |
