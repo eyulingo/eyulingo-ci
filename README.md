@@ -18,9 +18,38 @@
   </a>
 </h2>
 
-
+<div align="center" style="width: 18em">
+    <table>
+        <thead>
+            <tr>
+                <th>Repository Branch</th>
+                <th>Last Commit</th>
+                <th>Build Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td>Server (Master)</td>
+                <td><img src=""></img></td>
+                <td><img src=""></img></td>
+            </tr>
+            <tr>
+                <td>手机</td>
+                <td>$800</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>笔记本</td>
+                <td>$1400</td>
+                <td>5</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+  
+  
 | Branch | Last Commit | Status |
-| ------------- | ------------- | ------------- |
+ :-: | :-: | :-:
 | Server (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-server.svg?branch=master)  |
 | Server (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-server.svg?branch=develop) |
 | Android Client (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-android/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-android.svg?branch=master)  |
