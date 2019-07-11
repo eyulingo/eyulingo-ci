@@ -12,8 +12,20 @@
   <a><img src="https://img.shields.io/badge/iOS-13.0-lightgrey.svg?logo=apple&style=flat-square"></img></a>
 </p>
 
+<h2 align="center">
+  Repository Links
+<p align="center">
+  <a href="https://github.com/eyulingo/eyulingo-server">Server</a>
+  <a href="https://github.com/eyulingo/eyulingo-web">Web</a>
+  <a href="https://github.com/eyulingo/eyulingo-ios">iOS</a>
+  <a href="https://github.com/eyulingo/eyulingo-android">Android</a>
+  <a href="https://github.com/eyulingo/eyulingo-db">Database</a>
+  <a href="https://github.com/eyulingo/eyulingo-dockerize">Dockerize</a>
+  <a href="https://github.com/eyulingo/paper-work">Paperwork</a>
+</p>
+  </h2>
 
-## Building Dashboard
+### Building Dashboard
 
   
 | Branch | Last Commit | Status |
