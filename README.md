@@ -11,6 +11,10 @@
   <a><img src="https://img.shields.io/badge/swift-5.0-fa7343.svg?logo=swift&style=flat-square"></img></a>
   <a><img src="https://img.shields.io/badge/iOS-13.0-lightgrey.svg?logo=apple&style=flat-square"></img></a>
 </p>
+<p align="center">
+  <a><img src="https://img.shields.io/docker/cloud/automated/yuxiqian/eyulingo-server.svg?color=1488C6&logo=docker&style=flat-square"></img></a>
+  <a><img src="https://img.shields.io/docker/cloud/build/yuxiqian/eyulingo-server.svg?style=flat-square"></img></a>
+</p>
 
 <h2 align="center">
   Repository Links
