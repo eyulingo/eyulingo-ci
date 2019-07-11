@@ -12,41 +12,9 @@
   <a><img src="https://img.shields.io/badge/iOS-13.0-lightgrey.svg?logo=apple&style=flat-square"></img></a>
 </p>
 
-<h2 align="center">
-  <a>
-    Building Dashboard
-  </a>
-</h2>
 
-<div align="center" style="width: 18em">
-    <table>
-        <thead>
-            <tr>
-                <th>Repository Branch</th>
-                <th>Last Commit</th>
-                <th>Build Status</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-              <td>Server (Master)</td>
-                <td><img src=""></img></td>
-                <td><img src=""></img></td>
-            </tr>
-            <tr>
-                <td>手机</td>
-                <td>$800</td>
-                <td>10</td>
-            </tr>
-            <tr>
-                <td>笔记本</td>
-                <td>$1400</td>
-                <td>5</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-  
+## Building Dashboard
+
   
 | Branch | Last Commit | Status |
  :-: | :-: | :-:
