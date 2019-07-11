@@ -4,9 +4,6 @@
 </h1>
 
 <p align="center">
-</p>
-
-<p align="center">
   <a><img src="https://img.shields.io/badge/project%20name-eyulingo-ff69b4.svg?style=flat-square"></img></a>
   <a><img src="https://img.shields.io/badge/kotlin-1.3-f18e33.svg?style=flat-square&logo=kotlin"></img></a>
   <a><img src="https://img.shields.io/badge/database-MySQL-4479a1.svg?style=flat-square&logo=mysql"></img></a>
