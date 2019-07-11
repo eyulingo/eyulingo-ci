@@ -1,7 +1,6 @@
 <h1 align="center">
-  <a>
-    Project Eyulingo
-  </a>
+  <img width="80%" src="https://github.com/eyulingo/eyulingo-dashboard/blob/master/title.png?raw=true">
+  </img>
 </h1>
 
 <p align="center">
