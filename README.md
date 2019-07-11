@@ -41,7 +41,7 @@
 
   
 | Branch | Last Commit | Status |
- :-: | -: | -
+ :-: | -: | :-
 | Server (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/master.svg?style=flat-square) | ![CircleCI](https://img.shields.io/circleci/build/github/eyulingo/eyulingo-server.svg?logo=circleci) |
 | Server (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-server/develop.svg?style=flat-square) | ![CircleCI](https://img.shields.io/circleci/build/github/eyulingo/eyulingo-server/develop.svg?logo=circleci) |
 | Android Client (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-android/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-android.svg?branch=master)  |
