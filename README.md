@@ -36,6 +36,20 @@
   <a href="https://github.com/eyulingo/paper-work">Paperwork</a>
 </p>
 
+<h2 align="center">
+  Commit Activities
+ </h2>
+<p align="center">
+  <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/eyulingo-server.svg?label=Server&style=flat-square"></img></a>
+    <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/eyulingo-web.svg?label=Web&style=flat-square"></img></a>
+    <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/eyulingo-ios.svg?label=iOS&style=flat-square"></img></a>
+    <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/eyulingo-android.svg?label=Android&style=flat-square"></img></a>
+    <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/eyulingo-db.svg?label=DataBase&style=flat-square"></img></a>
+    <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/eyulingo-dockerize.svg?label=Dockerize&style=flat-square"></img></a>
+    <a><img src="https://img.shields.io/github/commit-activity/w/eyulingo/paper-work.svg?label=Paperwork&style=flat-square"></img></a>
+</p>
+
+
 
 ### Repositories Dashboard
 
@@ -52,3 +66,4 @@
 | Web (Master) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-web/master.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-web.svg?branch=master)  |
 | Web (Develop) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-web/develop.svg?style=flat-square) | ![](https://travis-ci.org/eyulingo/eyulingo-web.svg?branch=develop) |
 | Database | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eyulingo/eyulingo-db/master.svg?style=flat-square) | N/A  |
+
