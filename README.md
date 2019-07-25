@@ -10,7 +10,7 @@
   <a><img src="https://img.shields.io/badge/database-MongoDB-47a248.svg?style=flat-square&logo=mongodb"></img></a>
   <a><img src="https://img.shields.io/badge/swift-5.0-fa7343.svg?logo=swift&style=flat-square"></img></a>
   <a><img src="https://img.shields.io/badge/iOS-13.0-lightgrey.svg?logo=apple&style=flat-square"></img></a>
-  <a><img src="https://img.shields.io/badge/API%20Level-25-A4C639.svg?logo=android&style=flat-square"></img></a>
+  <a><img src="https://img.shields.io/badge/API%20Level-25+-A4C639.svg?logo=android&style=flat-square"></img></a>
 </p>
 <p align="center">
   <a><img src="https://img.shields.io/docker/cloud/automated/yuxiqian/eyulingo-server.svg?color=1488C6&logo=docker&style=flat-square"></img></a>
